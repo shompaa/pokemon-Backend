@@ -1,0 +1,1 @@
+{"version":3,"file":"statsConverter.js","sourceRoot":"","sources":["../../../../src/utils/converters/statsConverter.ts"],"names":[],"mappings":";;;AAEA,kDAAsD;AAE/C,MAAM,cAAc,GAAG,CAAC,IAAU,EAAa,EAAE;IACtD,MAAM,IAAI,GAAG,0BAAe,CAAC,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;IAE7C,OAAO;QACL,IAAI,EAAE,IAAI;QACV,KAAK,EAAE,IAAI,CAAC,SAAS;KACtB,CAAA;AACH,CAAC,CAAA;AAPY,QAAA,cAAc,kBAO1B"}

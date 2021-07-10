@@ -1,0 +1,1 @@
+{"version":3,"file":"pokemonController.js","sourceRoot":"","sources":["../../controllers/pokemonController.ts"],"names":[],"mappings":";;;AAEO,MAAM,WAAW,GAAG,CAAC,GAAY,EAAE,GAAa,EAAE,IAAkB,EAAE,EAAE;IAC7E,GAAG,CAAC,IAAI,CAAC;QACP,GAAG,EAAE,aAAa;KACnB,CAAC,CAAA;AACJ,CAAC,CAAA;AAJY,QAAA,WAAW,eAIvB"}
