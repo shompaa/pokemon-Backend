@@ -33,8 +33,6 @@ localhost:8000/api/v1/pokemons/:id
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [NodeJs](https://nodejs.org/es/)
 * [Express](https://expressjs.com/es/)
 * [Typescript](https://www.typescriptlang.org/)
